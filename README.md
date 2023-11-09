@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there! I'm Shiva, a Research Engineer at Utrecht Univesity with a focus on NLP and High performance computing.
 
 <!--
 **ShNadi/ShNadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
