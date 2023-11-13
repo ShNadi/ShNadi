@@ -1,4 +1,14 @@
-### 👋 Hello there! I'm Shiva, a Research Engineer at Utrecht Univesity with a focus on NLP and High performance computing.
+### Greetings! I'm Shiva 👋
+
+ I'm a Research Engineer at Utrecht Univesity with a specialization in Natural Language Processing (NLP). As a programmer I actively engage in collaborative research projects spanning diverse domains. Additionally, I offer High-Performance Computing (HPC) consultancy to researchers at Utrecht University.
+  
+  ## 💬
+How to reach me?
+- Send me an email (see bio)
+- Contact me via [LinkedIn](https://www.linkedin.com/in/shiva-nadi-50066343/)
+
+[![University profile](https://img.shields.io/badge/University_profile-FFCD00?style=flat-square&logo=gmail&logoColor=white)](https://www.uu.nl/staff/SNadiNajafabadi)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-nadi-50066343/)
 
 <!--
 **ShNadi/ShNadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
