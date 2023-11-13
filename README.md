@@ -4,7 +4,7 @@
   
   ## 💬
 How to reach me?
-- Send me an email (see bio)
+- Refer to my UU page [UU Profile](https://www.uu.nl/staff/SNadiNajafabadi)
 - Contact me via [LinkedIn](https://www.linkedin.com/in/shiva-nadi-50066343/)
 
 [![University profile](https://img.shields.io/badge/University_profile-FFCD00?style=flat-square&logo=gmail&logoColor=white)](https://www.uu.nl/staff/SNadiNajafabadi)
